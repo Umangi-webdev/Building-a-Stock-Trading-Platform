@@ -41,3 +41,23 @@ StockX is a comprehensive MERN-stack application that replicates the core functi
 ### 1. Clone the repository
 ```bash
 
+https://github.com/Umangi-webdev/Building-a-Stock-Trading-Platform
+
+## Priject Structure
+├── backend/
+│   ├── models/      # Mongoose Schemas (User, Holdings, Orders)
+│   ├── routes/      # API Endpoints
+│   └── index.js     # Server Entry
+├── frontend/
+│   ├── src/
+│   │   ├── components/ # Watchlist, Dashboard, OrderWindow
+│   │   ├── pages/      # Home, Holdings, Funds
+│   │   └── store/      # Redux/State logic
+│   └── App.js
+└── README.md
+
+Author
+Umangi Patel
+Education: Computer Engineering @ GEC Palanpur (9.35 SPI)
+Expertise: MERN Stack | Dart| AI/ML
+LinkedIn: https://www.linkedin.com/public-profile/settings/
