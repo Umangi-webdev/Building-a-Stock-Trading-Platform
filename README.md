@@ -12,12 +12,6 @@
 
 **A Zerodha-inspired, high-performance trading ecosystem built for seamless financial experiences.**
 
-[🚀 Live Demo](#) • [📖 Documentation](#) • [🐛 Report Bug](https://github.com/Umangi-webdev/Building-a-Stock-Trading-Platform/issues) • [✨ Request Feature](https://github.com/Umangi-webdev/Building-a-Stock-Trading-Platform/issues)
-
-</div>
-
----
-
 ## 📌 Table of Contents
 
 - [About the Project](#-about-the-project)
